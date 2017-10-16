@@ -1,0 +1,6 @@
+C:\Users\ALEX.SANGIORGI\Documents\OOP Pattern - Venturi\Sveglia\Sveglia\bin\Debug\Sveglia.exe.config
+C:\Users\ALEX.SANGIORGI\Documents\OOP Pattern - Venturi\Sveglia\Sveglia\bin\Debug\Sveglia.exe
+C:\Users\ALEX.SANGIORGI\Documents\OOP Pattern - Venturi\Sveglia\Sveglia\bin\Debug\Sveglia.pdb
+C:\Users\ALEX.SANGIORGI\Documents\OOP Pattern - Venturi\Sveglia\Sveglia\obj\Debug\Sveglia.csprojResolveAssemblyReference.cache
+C:\Users\ALEX.SANGIORGI\Documents\OOP Pattern - Venturi\Sveglia\Sveglia\obj\Debug\Sveglia.exe
+C:\Users\ALEX.SANGIORGI\Documents\OOP Pattern - Venturi\Sveglia\Sveglia\obj\Debug\Sveglia.pdb
